@@ -21,7 +21,20 @@ author:
 paginate:         5
 
 # Custom vars
-# version:          1.0.1
+version:          0.1
 
 github:
   repo:           https://github.com/cybette/cybette.github.io
+
+# Profile links on the left sidebar
+social:
+  github: cybette
+  hacker_news: cybette
+  twitter: cybette
+  facebook: cybette
+  linkedin: cybette
+  gplus: 110018497137161565750
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true
+
