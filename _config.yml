@@ -1,36 +1,27 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Plugins
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Carol "cybette" Chen
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Engineer by training, communicator by profession, musician by passion. Currently enpowering
-  open source communities at Red Hat. Previously Jolla community chief, Nokia software engineer.
-  Organizing, participating (and occasionally speaking) at FOSS events around the world. Playing timpani
-  with TASO.fi in those few offline moments. Cool gadgets and timpani sticks are my Achilles heel.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cybette
-github_username:  cybette
+# Dependencies
+highlighter:      rouge
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# Permalinks
+permalink:        pretty
 
+# Setup
+title:            cybette
+tagline:          Carol Chen
+description:      Open Source Community Developer | Red Hatter | Professional Geek | Amateur Musician
+url:              https://cybette.github.io
+baseurl:          /
+
+author:
+  name:           'Carol Chen'
+  url:            https://twitter.com/cybette
+
+paginate:         5
+
+# Custom vars
+# version:          1.0.1
+
+github:
+  repo:           https://github.com/cybette/cybette.github.io
