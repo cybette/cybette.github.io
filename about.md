@@ -26,3 +26,4 @@ Here's where you can find me on various channels, some more active than others.
 *   [Instagram](https://instagram.com/cybette)
 *   [Tumblr](https://cybette.tumblr.com)
 
+I've also been the main voice behind social channels for [Devaamo](http://devaamo.fi/), [Jolla](https://jolla.com/) (2013-2015), and [ManageIQ](https://manageiq.org/) (2016- ).
