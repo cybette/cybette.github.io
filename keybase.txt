@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/cybette
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cybette.github.io
+  * I am cybette (https://keybase.io/cybette) on keybase.
+  * I have a public key with fingerprint 819E 14CA F886 85A5 D303  7FF3 4DF8 FD7F 8C25 F2F4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208b0374ec038c0d768cca0d6a23f6acef11e6fc7a0a30df42047dededcbf9e3860a",
+      "fingerprint": "819e14caf88685a5d3037ff34df8fd7f8c25f2f4",
+      "host": "keybase.io",
+      "key_id": "4df8fd7f8c25f2f4",
+      "kid": "01018174ac8f67d92e4b7eaddcde9a86b25b988810b95a20429846af42db185109530a",
+      "uid": "cfcb1a76a1570214fcbe267aaf1cee19",
+      "username": "cybette"
+    },
+    "service": {
+      "hostname": "cybette.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506589158,
+  "expire_in": 157680000,
+  "prev": "57749b0a379df62280c83cee388c4f03497123981c22bd8f2a14c5ba9262687c",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMN1AnicbVJtUFRVGN6VDQvEJU0lwsDLQMhX9/ueu1oZ2dAwQ1BpCIpw7r3nshdh
+d9m9u/LRhyA4luuEk5pD5kfNMMIAUuogYTOBgAygEckYk3yUA4ETtYooIWl3KX80
+0zk/zpxznvd5n+d93/YAH52fPnn2r/fdEbfv6Htajzp16b3N4yWYYJWKMFMJtgMt
+HChPQg41a4ciYSYMJ0gcCDjF0UjEKSDiEscCUYS4xEKSklkoIpkgECuLHMQhhUsy
+TeI0JyFti4LMIwqwOMRiMVmx5CC7za5YVI0WEDwiaBHKALCAgYxEaSlkmaIlGcgS
+JwORZGRSprVAs9XhjdDECdCB4hWr9qZdshbk/Q/+kW6cAARHQxHILCfxJKIFDkFJ
+EiXEQ8AKJCPwAAACF3gGapJJHtAs1NRLAgEYAucZakG3c4FOlEWBgBwLCYbDSYLW
+rohkOQhlQkSI4L1AB7JbYD7yoosEpKoIezcW0x5dioi8dfUa+S8gPkdRzU7hH082
+u1W1itY87dusqjaHyRuuFtm8+J1IyPqXKUtQLJJWSy3ChewOxWrBTISGFFXFS00w
+OMsAnmBALIYKbYodZSleBKO1DdeWNw9yaZQMx9G8oLWM4yWZJUmAi4DSvFAAiLSM
+UzTPESTFA0IkSUECMgm1fjEC5EmWZAEnYl5vBRYrZiK1VCrM0TgdSo4Fqk675ryt
+dZtBp/fT+T62yDtkOr8nAh+N3uk840O0vLTW0793EE4U/L54yY1GbKp9Jm7qaaqh
+UmmanHXpllTNlnRHBbjmD+pD48dfHT3O3ErKY3NXtg70Liqs8dQaPL8yhpu7lod9
+1DX/bNmqY/gzptWVyc9dmyiIbB86Fhk8PP284d586pX9gRON42NCcpi7P82V4anO
+75zbFd0xz9i30aveaIoKua9riFiP7L9ln7MY7h7drL79uRGrH+vc3TGysaVmxdoD
+IUvdqaPFM+WbnJXpYfPZnkw9F9P8U8QLZ9rDA/vGAq5+UfZhy551KXV4TfXxl2sS
+gqmUwaANtRcHDWec+trELz9tyPZ95wc/S8Xq5EOZGZct0tfTpQkwYbjhLO1jXtNM
+z/UM549e+m7lUxci+s93XkzuMHY3hm4s8f8AC0hNPB8bdPhQedDJOof5tjv6xkvr
+mjYsLpfCuweMkcRUSO7jsVURXSnFXUPVUQcLh/eV1U/OCv0HbEfSnN+sOFl/aY3x
+9Yfpo31hl9tK9zUWh1Zct2Ru77CFf3WtM4l1fzZiH6xoz43bsuz6t8a3NmVMbu2q
+e+Wc/cIJn1PO7xNzfJLa7sYULz3c+/GDtS1DMzt3/3zT/dp7y0Z8zt6vqVLuFVbE
+Owd6tlcGj878cQfDkvbvLTC/mXAV+k6c/nNgoPxF/83GlDj5QWf01qRfitI+iVnv
+/+ORW09WzW6ZPjWnO3Glj/XE/w0Ymsrk
+=FrdC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cybette
+
+==================================================================
+
