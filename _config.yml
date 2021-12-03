@@ -44,4 +44,4 @@ show_atom_feed:   true
 google_analytics_key: UA-100083417-1
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
